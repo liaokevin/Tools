@@ -76,7 +76,7 @@ Ext.define('Ext.ux.form.MonthField', {
             renderTo: document.body,
             floating: true,
             shadow: false,
-            height:200,
+            height:300,
             focusOnShow: true,
             listeners: {
                 scope: me,
