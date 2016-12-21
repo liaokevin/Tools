@@ -1,0 +1,11 @@
+
+REM ====系统管理======
+REM net user 用户账号 密码
+REM net user administrator 123456 
+
+REM 清理DNS缓存
+REM ipconfig /flushdns
+
+
+
+
